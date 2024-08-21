@@ -12,10 +12,10 @@
 
 🏌🏽‍♂️Hobbies:
 
--Reading 
--Football 
--listening to music
--Chess
+- Reading 
+- Football 
+- listening to music
+- Chess
 
 📫 How to reach me
 - [ https://www.linkedin.com/in/sipho-charinga-565b03312?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
