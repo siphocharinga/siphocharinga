@@ -3,25 +3,26 @@ An aspiring Software Engineer currently on an exciting journey to master the wor
 
 - 👀 I'm interested in:
 
-. Software Development 
-. Web development
+- Software Development 
+- Web development
 
 - 🧠 What I'm Working On:
   
-. Leveling up my skills in CSS & JavaScript.
+- Leveling up my skills in CSS & JavaScript.
 
 
 -🏌🏽‍♂️Hobbies:
 
-.Reading 
-.Football 
-.listening to music
-.Chess
+-Reading 
+-Football 
+-listening to music
+-Chess
 
 
 - 📫 How to reach me
-. https://www.linkedin.com/in/sipho-charinga-565b03312?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-.https://www.instagram.com/lengman_sipho?igsh=NWFlODZvYW9nc3h4
+- [ https://www.linkedin.com/in/sipho-charinga-565b03312?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
+- [https://www.instagram.com/lengman_sipho?igsh=NWFlODZvYW9nc3h4]
+
 
 <!---
 siphocharinga/siphocharinga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
