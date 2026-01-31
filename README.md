@@ -10,27 +10,39 @@ I’m focused on building a strong foundation in software engineering while gain
 -Computer Architecture
 
 -Database Management Systems
+
 -Operating Systems
+
 -Web Development: HTML, CSS, JavaScript
+
 I aim to write clear, efficient code and develop a deeper understanding of both software and system-level concepts.
+
 
 🛠️ Current Focus
 
+
 -Strengthening my CSS and JavaScript skills
+
 -Improving code quality and structure
+
 -Applying theoretical concepts through practice.
 
 👀 Interests
 
 -Software Engineering
+
 -Web Development.
 
 🏌🏽‍♂️ Hobbies
 
 -Reading
+
 -Football
+
 -Listening to music
+
 -Chess
+
 I’m open to learning, collaboration, and continuous improvement as I grow in the field.
 
 📫 How to reach me
