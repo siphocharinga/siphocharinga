@@ -6,7 +6,9 @@ I’m focused on building a strong foundation in software engineering while gain
 🧠 What I’m Learning
 
 -C++
+
 -Computer Architecture
+
 -Database Management Systems
 -Operating Systems
 -Web Development: HTML, CSS, JavaScript
